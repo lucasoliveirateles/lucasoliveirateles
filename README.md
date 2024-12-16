@@ -2,17 +2,17 @@
 
 I'm Lucas Teles,  I'm a Software Engineer, and I've been working in tech since 2011. 
 
-I love contributing to the community with [video tutorials](https://www.youtube.com/@universidadedoprogramador). Check the link below. 
-
-In my free time I am an active contributor to the PS2 Scene community helping to build tools to support the development of electronic games.
+In my free time I love contributing to the PlayStation 2 Community with [video tutorials](https://www.youtube.com/@ps2dev) to help build tools and support video game development.
 
 [![Linkedin: teles](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasoliveirateles/)](https://www.linkedin.com/in/lucasoliveirateles/)
-[![Youtube: universidade do programador](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@universidadedoprogramador)](https://www.youtube.com/@universidadedoprogramador)
+[![PS2DEV](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@ps2dev)](https://www.youtube.com/@ps2dev)
 
 
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
+<br>
+
+#### Major technologies
 
 Backend: 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -23,7 +23,6 @@ Backend:
 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -33,7 +32,6 @@ Database:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
-
 
 Cloud:
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white)
@@ -49,6 +47,15 @@ IDEs:
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+<br>
+
+#### Minor technologies
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly (MIPS)](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
+
+<br>
 
 ## ⚡ Certificates
 
