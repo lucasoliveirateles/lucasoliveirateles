@@ -12,7 +12,7 @@ In my free time I love contributing to the PlayStation 2 Community with [video t
 
 <br>
 
-#### Major technologies
+#### Majors
 
 Backend: 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -49,7 +49,7 @@ IDEs:
 
 <br>
 
-#### Minor technologies
+#### Minors
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
